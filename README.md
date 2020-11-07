@@ -4,7 +4,7 @@
 
 This is the repository for the Python Data analytics course I took at the end of 2020. Here you will find all lessons, excercises, analyses, my assessments and projects.
 
-![awesome](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)
+![Awesome](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)
 
 ## Course outline
 
